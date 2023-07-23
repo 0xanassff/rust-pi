@@ -6,9 +6,9 @@ Formulas/Algorithms for calculating "Digits of Pi" implemented in [Rust](https:/
 
 | Formula/Algorithm                   | Implementation                   |Lines |
 |-------------------------------------|----------------------------------|------|
-| [Abraham Sharp formula][1]          | [abraham_sharp.rs][2]            |  41  |
-| [Bailey-Borwein-Plouffe formula][3] | [bailey_borwein_plouffe.rs][4]   |  44  |
-| [Bellard formula][5]                | [bellard.rs][6]                  |  51  |
+| [Abraham Sharp formula][1]          | [abraham_sharp.rs][2]            |  38  |
+| [Bailey-Borwein-Plouffe formula][3] | [bailey_borwein_plouffe.rs][4]   |  37  |
+| [Bellard formula][5]                | [bellard.rs][6]                  |  50  |
 
 [1]: https://mathworld.wolfram.com/PiFormulas.html
 [2]: https://github.com/Rabios/nelua-pi/blob/main/abraham_sharp.nelua
